@@ -1,6 +1,6 @@
 (function() {
     const script = document.createElement('script');
-    script.src = 'https://biniyam69.github.io/embed-files/index-Dnp-akp0.js';
+    script.src = 'https://biniyam69.github.io/embed-files/index-DojvmSMA.js';
     script.onload = () => {
       window.renderChatWidgetBizai('chat-widget-container');
     };
